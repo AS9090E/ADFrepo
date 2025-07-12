@@ -1,0 +1,9 @@
+{
+	"name": "00abhishekgithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20f4e7f2-f0e1-4a35-b280-bac8930e0511",
+		"tenantId": "9e23196b-7b91-49ff-9e5c-4e16cc3d7f11"
+	}
+}
